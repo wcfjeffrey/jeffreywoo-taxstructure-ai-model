@@ -13,6 +13,7 @@ Not your typical diagramming tool.
 - 🧾 **Assumption Capture** — record key assumptions and tax considerations directly alongside visuals  
 - ⚖️ **Tax Overlay** — surface tax implications directly on the chart for clarity and compliance  
 - 📂 **Pre-Built Templates** — start quickly with common Hong Kong tax structures  
+- 🌍 **International Tax Planning Templates** — access a comprehensive suite of cross-border structures, treaty layers, and multi-jurisdictional planning models  
 - 💾 **My Structures Library** — save, edit, and reuse structures for future projects  
 - 📤 **Export Options** — generate outputs in PDF, PNG, or share via link  
 
@@ -22,29 +23,32 @@ Not your typical diagramming tool.
   - Structure considerations  
   - Downstream implications  
   - Draft step plans  
-- 🧠 Suggest refinements based on Hong Kong tax rules  
-- 🌍 Future expansion to multi-jurisdictional entities and treaty layers  
+- 🧠 Suggest refinements based on Hong Kong tax rules and international treaty frameworks  
+- 🌍 Expand to multi-jurisdictional entities, cross-border financing, and treaty optimization  
 
 ## 🚀 Why Choose JeffreyWooTaxStructure?
-Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. It simplifies the end-to-end charting needs of tax professionals, enabling smarter structuring decisions with clarity and speed.
+Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
 
 ## 📦 Getting Started
 1. Clone the repository and install dependencies.  
 2. Launch the app to access the interactive canvas.  
 3. Drag-and-drop entities, connect relationships, and capture assumptions.  
-4. Let the AI surface tax implications and suggest refinements.  
-5. Export your structure to PDF, PNG, or save it in **My Structures** for future use.  
+4. Apply Hong Kong or international tax templates to accelerate structuring.  
+5. Let the AI surface tax implications and suggest refinements.  
+6. Export your structure to PDF, PNG, or save it in **My Structures** for future use.  
 
 ## ⚖️ Disclaimer
 **JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult qualified advisors before implementing any tax structures in practice.  
 
-## Run Locally
+## ⚙️ Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## 📋 Sample
+
