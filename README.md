@@ -29,6 +29,11 @@ Not your typical diagramming tool.
 ## 🚀 Why Choose JeffreyWooTaxStructure?
 Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
 
+## 🤖 Tech Stack
+- **Language** — TypeScript  
+- **Framework** — React (with Vite as the build tool)  
+- **UI** — Standard React components
+
 ## 📦 Getting Started
 1. Clone the repository and install dependencies.  
 2. Launch the app to access the interactive canvas.  
@@ -46,7 +51,7 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) file to your API key after you create [.env.local](.env.local) file
 3. Run the app:
    `npm run dev`
 
