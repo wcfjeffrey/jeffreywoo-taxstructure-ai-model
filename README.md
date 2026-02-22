@@ -13,7 +13,7 @@ Not your typical diagramming tool.
 - 🧾 **Assumption Capture** — record key assumptions and tax considerations directly alongside visuals  
 - ⚖️ **Tax Overlay** — surface tax implications directly on the chart for clarity and compliance  
 - 📂 **Pre-Built Templates** — start quickly with common Hong Kong tax structures  
-- 🌍 **International Tax Planning Templates** — access a comprehensive suite of cross-border structures, treaty layers, and multi-jurisdictional planning models  
+- 🌍 **International Tax Planning Templates** — access a comprehensive suite of cross-border structures, treaty/Double Taxation Agreements/Arrangements (DTAs) layers, and multi-jurisdictional planning models  
 - 💾 **My Structures Library** — save, edit, and reuse structures for future projects  
 - 📤 **Export Options** — generate outputs in PDF, PNG, or share via link  
 
