@@ -23,8 +23,8 @@ Not your typical diagramming tool.
   - Structure considerations  
   - Downstream implications  
   - Draft step plans  
-- 🧠 Suggest refinements based on Hong Kong tax rules and international treaty frameworks  
-- 🌍 Expand to multi-jurisdictional entities, cross-border financing, and treaty optimization  
+- 🧠 Suggest refinements based on Hong Kong tax rules and international treaty/DTA frameworks  
+- 🌍 Expand to multi-jurisdictional entities, cross-border financing, and treaty/DTA optimization  
 
 ## 🚀 Why Choose JeffreyWooTaxStructure?
 Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
