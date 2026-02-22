@@ -36,7 +36,7 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 5. Export your structure to PDF, PNG, or save it in **My Structures** for future use.  
 
 ## ⚖️ Disclaimer
-This application provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult qualified advisors before implementing any tax structures in practice.  
+**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult qualified advisors before implementing any tax structures in practice.  
 
 ## Run Locally
 
