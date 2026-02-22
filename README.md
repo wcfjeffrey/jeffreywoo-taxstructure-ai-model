@@ -4,7 +4,7 @@
 
 Not your typical diagramming tool.  
 
-**JeffreyWooTaxStructure** is an innovative AI-powered tax structuring app designed for tax professionals to design, analyze, and iterate complex tax structures on a single interactive canvas.
+**JeffreyWooTaxStructure** is an innovative AI-powered tax structuring canvas app designed for tax professionals to design, analyze, and iterate complex tax structures on a single interactive canvas.
 
 ## ✨ What It Does
 - 🏗️ **Entity Mapping** — drag-and-drop entities (equity, trust, debt, etc.) onto a free canvas  
