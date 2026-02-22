@@ -57,3 +57,7 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 
 ## 📋 Sample
 
+<img src="assets/JeffreyWooTaxStructure1.png" alt="JeffreyWooTaxStructure1" width="1200" height="900" />
+<img src="assets/JeffreyWooTaxStructure2.png" alt="JeffreyWooTaxStructure2" width="1200" height="900" />
+<img src="assets/JeffreyWooTaxStructure3.png" alt="JeffreyWooTaxStructure3" width="1200" height="900" />
+<img src="assets/JeffreyWooTaxStructure4.png" alt="JeffreyWooTaxStructure4" width="1200" height="900" />
