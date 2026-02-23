@@ -12,13 +12,13 @@ Not your typical diagramming tool.
 - 📑 **Step-by-Step Structuring** — build structuring plans progressively, not just end-state diagrams  
 - 🧾 **Assumption Capture** — record key assumptions and tax considerations directly alongside visuals  
 - ⚖️ **Tax Overlay** — surface tax implications directly on the chart for clarity and compliance  
-- 📂 **Pre-Built Templates** — start quickly with common Hong Kong tax structures  
+- 📂 **Pre-Built Templates** — start quickly with common Hong Kong and international tax structures  
 - 🌍 **International Tax Planning Templates** — access a comprehensive suite of cross-border structures, treaty/Double Taxation Agreement/Arrangement (DTA) layers, and multi-jurisdictional planning models  
 - 💾 **My Structures Library** — save, edit, and reuse structures for future projects  
-- 📤 **Export Options** — generate outputs in PDF, PNG, or share via link  
+- 📤 **Export Options** — generate outputs in PNG, or share via link for the structure diagram, and TXT for the AI tax analysis result  
 
 ## 🤖 AI-Native Capabilities
-- 📊 Interpret diagrams to highlight:
+- 📊 Analyze tax structure diagrams to highlight:
   - Investor considerations  
   - Structure considerations  
   - Downstream implications  
@@ -27,7 +27,7 @@ Not your typical diagramming tool.
 - 🌍 Expand to multi-jurisdictional entities, cross-border financing, and treaty/DTA optimization  
 
 ## 🚀 Why Choose JeffreyWooTaxStructure?
-Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
+Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **Hong Kong and international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
 
 ## 🤖 Tech Stack
 - **Language** — TypeScript  
