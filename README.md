@@ -34,6 +34,21 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 - **Framework** — React (with Vite as the build tool)  
 - **UI** — Standard React components
 
+## 💡 Finance Transformation Impact
+This project demonstrates how technology can reshape professional tax workflows by:  
+• Digitizing complex structuring processes with interactive canvas design & visualization overlays.  
+• Enhancing compliance & transparency through AI‑driven analysis aligned with HK regulations & international guidelines (OECD/UN Models, BEPS).  
+• Improving efficiency & collaboration with editable libraries, exportable outputs & scenario‑based templates.  
+• Driving digital transformation in tax advisory by turning manual processes into scalable & intelligent workflows.  
+• Promoting responsible innovation with secure handling of sensitive tax data & assumptions.
+
+## ⭐ Finance Skills Strengthened
+• Full‑stack architecture for interactive tax structuring applications.  
+• Secure handling of sensitive tax data, assumptions & environment variables.  
+• AI model integration into real‑world tax analysis workflows based on HK & international guidelines.  
+• Parsing & interpreting complex entity diagrams & multi‑jurisdictional templates.  
+• Interactive canvas design, visualization overlays & state management in React.
+
 ## 📦 Getting Started
 1. Clone the repository and install dependencies.  
 2. Launch the app to access the interactive canvas.  
