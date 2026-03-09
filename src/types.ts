@@ -23,6 +23,7 @@ export enum EntityType {
   CHARITABLE_TRUST = "CHARITABLE_TRUST",
   CHARITABLE_COMPANY = "CHARITABLE_COMPANY",
   VENTURE_CAPITAL = "VENTURE_CAPITAL",
+  COMPANY_LIMITED_BY_SHARES = "COMPANY_LIMITED_BY_SHARES",
 }
 
 export enum RelationshipType {
@@ -68,6 +69,7 @@ export interface Entity {
   isCFC?: boolean;
   isDLRI?: boolean;
   isSection88?: boolean;
+  isWFOE?: boolean;
   x: number;
   y: number;
   taxResidency?: string;
