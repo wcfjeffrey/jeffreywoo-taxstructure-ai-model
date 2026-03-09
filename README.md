@@ -35,13 +35,13 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 - **UI** — Standard React components (interactive canvas, drag-and-drop entities)
 - **Runtime** — Node.js
 
-## Professional Tax Concepts Considered
-This app automates visualization and analysis of structures involving Corporate Treasury Centres (CTCs), Family-owned Investment Holding Vehicles (FIHVs)/Family-owned Special Purpose Entities (FSPEs), Wholly Foreign-Owned Enterprises (WFOEs), Controlled Foreign Corporation (CFC) regimes, Enhanced Tax Deduction for R&D via Designated Local Research Institutions (DLRIs), and Section 88 of the Inland Revenue Ordinance (IRO) charitable exemptions:
-• Corporate Treasury Centre (CTC) — Centralized treasury operations for multinational groups, optimizing liquidity and funding efficiency.
-• Family-owned Investment Holding Vehicles (FIHVs) / Family-owned Special Purpose Entities (FSPEs) — Profits tax concession regime for eligible FIHVs and FSPEs, strengthening Hong Kong as a global wealth management hub.
-• Wholly Foreign-Owned Enterprises (WFOEs) — PRC market entry vehicles benefiting from tax concessions and regulatory compliance.
-• Controlled Foreign Corporations (CFC) Regime — Anti-deferral rules addressing passive income and offshore profit shifting.
-• Designated Local Research Institutions (DLRI) — Enhanced Tax Deduction for R&D in Hong Kong.
+## 💰 Professional Tax Concepts Considered
+This app automates visualization and analysis of structures involving Corporate Treasury Centres (CTCs), Family-owned Investment Holding Vehicles (FIHVs)/Family-owned Special Purpose Entities (FSPEs), Wholly Foreign-Owned Enterprises (WFOEs), Controlled Foreign Corporation (CFC) regimes, Enhanced Tax Deduction for R&D via Designated Local Research Institutions (DLRIs), and Section 88 of the Inland Revenue Ordinance (IRO) charitable exemptions:  
+• Corporate Treasury Centre (CTC) — Centralized treasury operations for multinational groups, optimizing liquidity and funding efficiency.  
+• Family-owned Investment Holding Vehicles (FIHVs) / Family-owned Special Purpose Entities (FSPEs) — Profits tax concession regime for eligible FIHVs and FSPEs, strengthening Hong Kong as a global wealth management hub.  
+• Wholly Foreign-Owned Enterprises (WFOEs) — PRC market entry vehicles benefiting from tax concessions and regulatory compliance.  
+• Controlled Foreign Corporations (CFC) Regime — Anti-deferral rules addressing passive income and offshore profit shifting.  
+• Designated Local Research Institutions (DLRI) — Enhanced Tax Deduction for R&D in Hong Kong.  
 • Section 88 of the IRO for Charitable Exemptions — Tax relief for recognized charitable organizations in Hong Kong.
 
 ## 💡 Finance Transformation Impact
