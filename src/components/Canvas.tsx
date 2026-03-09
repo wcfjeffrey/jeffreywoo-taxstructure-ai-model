@@ -36,6 +36,7 @@ const ENTITY_COLORS = {
   [EntityType.CHARITABLE_TRUST]: '#0891b2',
   [EntityType.CHARITABLE_COMPANY]: '#0e7490',
   [EntityType.VENTURE_CAPITAL]: '#4f46e5',
+  [EntityType.COMPANY_LIMITED_BY_SHARES]: '#3b82f6',
 };
 
 export const Canvas = React.forwardRef<Konva.Stage, CanvasProps>(({
