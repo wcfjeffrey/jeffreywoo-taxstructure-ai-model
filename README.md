@@ -36,7 +36,7 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 - **Runtime** — Node.js
 
 ## 💰 Professional Tax Concepts Considered
-This application automates the visualization and analysis of complex cross-border tax structures, embedding Hong Kong and PRC tax regimes into an interactive, compliance-ready framework. It demonstrates both technical innovation and deep domain knowledge by incorporating:  
+This app automates the visualization and analysis of complex cross-border tax structures, embedding Hong Kong and PRC tax regimes into an interactive, compliance-ready framework. It demonstrates both technical innovation and deep domain knowledge by incorporating:  
 • 	Corporate Treasury Centre (CTC) — Profits tax concession for qualifying CTC, enabling multinational groups to centralize treasury operations, optimize liquidity, and enhance funding efficiency.  
 • 	Family-owned Investment Holding Vehicles (FIHV) / Family-owned Special Purpose Entities (FSPE) — Profits tax concession regime under the Inland Revenue (Amendment) Ordinance 2023, strengthening Hong Kong’s position as a global family office and wealth management hub.  
 • 	Wholly Foreign-Owned Enterprise (WFOE) — PRC market entry vehicle benefiting from tax concessions and regulatory compliance, essential for cross-border structuring.  
