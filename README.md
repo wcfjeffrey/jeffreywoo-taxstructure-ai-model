@@ -30,9 +30,10 @@ Not your typical diagramming tool.
 Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **Hong Kong and international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
 
 ## 🤖 Tech Stack
-- **Language** — TypeScript  
+- **Language** — TypeScript, HTML  
 - **Framework** — React (with Vite as the build tool)  
-- **UI** — Standard React components
+- **UI** — Standard React components (interactive canvas, drag-and-drop entities)
+- **Runtime** — Node.js
 
 ## 💡 Finance Transformation Impact
 This project demonstrates how technology can reshape professional tax workflows by:  
