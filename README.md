@@ -37,12 +37,12 @@ Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combini
 
 ## 💰 Professional Tax Concepts Considered
 This app automates the visualization and analysis of complex cross-border tax structures, embedding Hong Kong and PRC tax regimes into an interactive, compliance-ready framework. It demonstrates both technical innovation and deep domain knowledge by incorporating:  
-• 	Corporate Treasury Centre (CTC) — Profits tax concession for qualifying CTC, enabling multinational groups to centralize treasury operations, optimize liquidity, and enhance funding efficiency.  
-• 	Family-owned Investment Holding Vehicles (FIHV) / Family-owned Special Purpose Entities (FSPE) — Profits tax concession regime under the Inland Revenue (Amendment) Ordinance 2023, strengthening Hong Kong’s position as a global family office and wealth management hub.  
-• 	Wholly Foreign-Owned Enterprise (WFOE) — PRC market entry vehicle benefiting from tax concessions and regulatory compliance, essential for cross-border structuring.  
-• 	Controlled Foreign Corporations (CFC) Regime — Anti-deferral rules addressing passive income and offshore profit shifting, particularly relevant for PRC outbound investment.  
-• 	Designated Local Research Institution (DLRI) — Enhanced tax deduction incentives for R&D activities in Hong Kong, supporting innovation and sustainable growth.  
-• 	Charitable Organization Under Section 88 of the Inland Revenue Ordinance (IRO) — Charitable exemptions providing tax relief for recognized charitable organization, integrating philanthropy into tax planning.
+• 	**Corporate Treasury Centre (CTC)** — Profits tax concession for qualifying CTC, enabling multinational groups to centralize treasury operations, optimize liquidity, and enhance funding efficiency.  
+• 	**Family-owned Investment Holding Vehicles (FIHV) / Family-owned Special Purpose Entities (FSPE)** — Profits tax concession regime under the Inland Revenue (Amendment) Ordinance 2023, strengthening Hong Kong’s position as a global family office and wealth management hub.  
+• 	**Wholly Foreign-Owned Enterprise (WFOE)** — PRC market entry vehicle benefiting from tax concessions and regulatory compliance, essential for cross-border structuring.  
+• 	**Controlled Foreign Corporations (CFC) Regime** — Anti-deferral rules addressing passive income and offshore profit shifting, particularly relevant for PRC outbound investment.  
+• 	**Designated Local Research Institution (DLRI)** — Enhanced tax deduction incentives for R&D activities in Hong Kong, supporting innovation and sustainable growth.  
+• 	**Charitable Organization Under Section 88 of the Inland Revenue Ordinance (IRO)** — Charitable exemptions providing tax relief for recognized charitable organization, integrating philanthropy into tax planning.
 
 ## 💡 Finance Transformation Impact
 This project demonstrates how technology can reshape professional tax workflows by:  
