@@ -44,6 +44,10 @@ This app automates the visualization and analysis of complex cross-border tax st
 • 	**Designated Local Research Institution (DLRI)** — Enhanced tax deduction incentives for R&D activities in Hong Kong, supporting innovation and sustainable growth under the Inland Revenue Ordinance, Sections 16B (for in-house R&D) and 16C (for outsourced R&D), and Schedule 45.  
 • 	**Charitable Organization Under Section 88 of the Inland Revenue Ordinance (IRO)** — Charitable exemptions providing tax relief for recognized charitable organization, integrating philanthropy into tax planning.
 
+## 📝 Main International Tax Planning Strategies
+
+<img src="assets/JeffreyWooTaxStructure5.png" alt="JeffreyWooTaxStructure5" width="1200" height="900" />
+
 ## 💡 Finance Transformation Impact
 This project demonstrates how technology can reshape professional tax workflows by:  
 • Digitizing complex structuring processes with interactive canvas design & visualization overlays.  
