@@ -68,7 +68,7 @@ This project demonstrates how technology can reshape professional tax workflows 
 6. Export your structure to PDF, PNG, or save it in **My Structures** for future use.  
 
 ## ⚖️ Disclaimer
-**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult chartered tax advisers (CTAs) before implementing any tax structures in practice.  
+**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult Chartered Tax Advisers (CTAs) before implementing any tax structures in practice.  
 
 ## ⚙️ Run Locally
 
