@@ -46,7 +46,7 @@ This app automates the visualization and analysis of complex cross-border tax st
 
 ## 📝 Main International Tax Planning Strategies
 
-<img src="assets/JeffreyWooTaxStructure5.png" alt="JeffreyWooTaxStructure5" width="1200" height="900" />
+<img src="assets/JeffreyWooTaxStructure5.png" alt="JeffreyWooTaxStructure5" width="1000" height="700" />
 
 ## 💡 Finance Transformation Impact
 This project demonstrates how technology can reshape professional tax workflows by:  
