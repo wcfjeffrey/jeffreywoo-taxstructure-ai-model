@@ -102,3 +102,10 @@ This project demonstrates how technology can reshape professional tax workflows 
 <img src="assets/JeffreyWooTaxStructure4.png" alt="JeffreyWooTaxStructure4" width="1200" height="900" />
 
 **Note:** Actively monitoring and systematically incorporating the evolving tax regulations, including BEPS 2.0 and other tax regulation updates from Hong Kong and other major jurisdictions, to ensure forward-thinking compliance and proactive risk management.
+
+## 👤 About the Author
+Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
+
+📧 Email: jeffreywoocf@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/wcfjeffrey/  
+🐙 GitHub: https://github.com/wcfjeffrey/
