@@ -34,14 +34,16 @@
 - 🧠 Suggest refinements based on Hong Kong tax rules and international DTA treaty frameworks  
 - 🌍 Expand to multi-jurisdictional entities, cross-border financing, and DTA treaty optimization  
 
+## 💡 Finance Transformation Impact
+This project demonstrates how technology can reshape professional tax workflows by:  
+• Digitizing complex structuring processes with interactive canvas design & visualization overlays.  
+• Enhancing compliance & transparency through AI‑driven analysis aligned with HK regulations & international guidelines (OECD/UN Models, BEPS).  
+• Improving efficiency & collaboration with editable libraries, exportable outputs & scenario‑based templates.  
+• Driving digital transformation in tax advisory by turning manual processes into scalable & intelligent workflows.  
+• Promoting responsible innovation with secure handling of sensitive tax data & assumptions.
+
 ## 🚀 Why Choose JeffreyWooTaxStructure?
 Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **Hong Kong and international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
-
-## 🤖 Tech Stack
-- **Language** — TypeScript, HTML  
-- **Framework** — React (with Vite as the build tool)  
-- **UI** — Standard React components (interactive canvas, drag-and-drop entities)
-- **Runtime** — Node.js
 
 ## 💰 Professional Tax Concepts Considered
 This app automates the visualization and analysis of complex cross-border tax structures, embedding Hong Kong and PRC tax regimes into an interactive, compliance-ready framework. It demonstrates both technical innovation and deep domain knowledge by incorporating:  
@@ -58,20 +60,18 @@ This app automates the visualization and analysis of complex cross-border tax st
 
 <img src="assets/JeffreyWooTaxStructure5.png" alt="JeffreyWooTaxStructure5" width="1100" height="800" />
 
-## 💡 Finance Transformation Impact
-This project demonstrates how technology can reshape professional tax workflows by:  
-• Digitizing complex structuring processes with interactive canvas design & visualization overlays.  
-• Enhancing compliance & transparency through AI‑driven analysis aligned with HK regulations & international guidelines (OECD/UN Models, BEPS).  
-• Improving efficiency & collaboration with editable libraries, exportable outputs & scenario‑based templates.  
-• Driving digital transformation in tax advisory by turning manual processes into scalable & intelligent workflows.  
-• Promoting responsible innovation with secure handling of sensitive tax data & assumptions.
-
 ## ⭐ Finance Skills Strengthened
 • Full‑stack architecture for interactive tax structuring applications.  
 • Secure handling of sensitive tax data, assumptions & environment variables.  
 • AI model integration into real‑world tax analysis workflows based on HK & international guidelines.  
 • Parsing & interpreting complex entity diagrams & multi‑jurisdictional templates.  
 • Interactive canvas design, visualization overlays & state management in React.
+
+## 🤖 Tech Stack
+- **Language** — TypeScript, HTML  
+- **Framework** — React (with Vite as the build tool)  
+- **UI** — Standard React components (interactive canvas, drag-and-drop entities)
+- **Runtime** — Node.js
 
 ## 📦 Getting Started
 1. Clone the repository and install dependencies.  
@@ -80,9 +80,6 @@ This project demonstrates how technology can reshape professional tax workflows 
 4. Apply Hong Kong or international tax templates to accelerate structuring.  
 5. Let the AI surface tax implications and suggest refinements.  
 6. Export your structure to PDF, PNG, or save it in **My Structures** for future use.  
-
-## ⚖️ Disclaimer
-**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult Chartered Tax Advisers (CTAs) before implementing any tax structures in practice.  
 
 ## ⚙️ Run Locally
 
@@ -102,6 +99,9 @@ This project demonstrates how technology can reshape professional tax workflows 
 <img src="assets/JeffreyWooTaxStructure4.png" alt="JeffreyWooTaxStructure4" width="1200" height="900" />
 
 **Note:** Actively monitoring and systematically incorporating the evolving tax regulations, including BEPS 2.0 and other tax regulation updates from Hong Kong and other major jurisdictions, to ensure forward-thinking compliance and proactive risk management.
+
+## ⚖️ Disclaimer
+**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult Chartered Tax Advisers (CTAs) before implementing any tax structures in practice.  
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
