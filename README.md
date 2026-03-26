@@ -45,7 +45,7 @@ This project demonstrates how technology can reshape professional tax workflows 
 ## 🚀 Why Choose JeffreyWooTaxStructure?
 Most tools only draw charts. **JeffreyWooTaxStructure** goes further — combining visual design, tax analysis, and structured documentation in one intelligent workspace. With built-in **Hong Kong and international tax planning templates**, it empowers professionals to handle both local and cross-border structuring needs with clarity and speed.
 
-## 💰 Professional Tax Concepts Considered
+## 💰 Professional Tax Regulations/Concepts Applied
 This app automates the visualization and analysis of complex cross-border tax structures, embedding Hong Kong and PRC tax regimes into an interactive, compliance-ready framework. It demonstrates both technical innovation and deep domain knowledge by incorporating:  
 • 	**Corporate Treasury Centre (CTC)** — Profits tax concession for qualifying CTC, enabling multinational groups to centralize treasury operations, optimize liquidity, and enhance funding efficiency under the Inland Revenue (Amendment) (No.2) Ordinance 2016.  
 • 	**Family-owned Investment Holding Vehicles (FIHV) / Family-owned Special Purpose Entities (FSPE)** — Profits tax concession regime under the Inland Revenue (Amendment) Ordinance 2023, strengthening Hong Kong’s position as a global family office and wealth management hub.  
