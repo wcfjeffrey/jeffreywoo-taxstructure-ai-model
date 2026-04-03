@@ -101,7 +101,7 @@ This app automates the visualization and analysis of complex cross-border tax st
 **Note:** Actively monitoring and systematically incorporating the evolving tax regulations, including BEPS 2.0 and other tax regulation updates from Hong Kong and other major jurisdictions, to ensure forward-thinking compliance and proactive risk management.
 
 ## ⚖️ Disclaimer
-**JeffreyWooTaxStructure** provides AI-driven insights for **informational, educational and professional support** only. It does not replace professional tax, legal, or financial advice. 
+**JeffreyWooTaxStructure** provides AI-driven insights for **informational, educational and demonstration purposes** only. It does not replace professional tax, legal, or financial advice. 
 
 Tax laws and regulations vary by jurisdiction and change frequently. The AI‑generated recommendations and analyses may not be accurate, complete, or applicable to your specific situation.
 
