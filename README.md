@@ -101,7 +101,13 @@ This app automates the visualization and analysis of complex cross-border tax st
 **Note:** Actively monitoring and systematically incorporating the evolving tax regulations, including BEPS 2.0 and other tax regulation updates from Hong Kong and other major jurisdictions, to ensure forward-thinking compliance and proactive risk management.
 
 ## ⚖️ Disclaimer
-**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace formal tax, legal, or financial advice. Users should consult Chartered Tax Advisers (CTAs) before implementing any tax structures in practice.  
+**JeffreyWooTaxStructure** provides AI-driven insights for **educational and professional support** only. It does not replace professional tax, legal, or financial advice. 
+
+Tax laws and regulations vary by jurisdiction and change frequently. The AI‑generated recommendations and analyses may not be accurate, complete, or applicable to your specific situation.
+
+Users should always consult Chartered Tax Advisers (CTAs) before implementing any tax structures or making any tax‑related decisions/transactions. The developer assumes no liability for any losses, penalties, or damages arising from the use of this app.
+
+Use at your own risk.
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
