@@ -64,7 +64,11 @@ This app automates the visualization and analysis of complex cross-border tax st
 
 The following diagram illustrates how the system transforms a user's visual design into AI-powered tax analysis and exportable outputs — from canvas interactions to Gemini API analysis to saved structures.
 
-> **How to read this diagram:** The flowchart shows three phases: Phase 1 (Visual Design) captures user input. Phase 2 (AI Analysis) processes it through Gemini API. Phase 3 (Output & Storage) delivers results. Arrows show the forward progression; there is no loop back to Phase 1 in this simplified view.
+> **How to read this diagram:** The flowchart shows three phases:  
+> Phase 1 (Visual Design) captures user input.  
+> Phase 2 (AI Analysis) processes it through Gemini API.  
+> Phase 3 (Output & Storage) delivers results.  
+> Arrows show the forward progression; there is no loop back to Phase 1 in this simplified view.
 
 ```mermaid
 flowchart TD
