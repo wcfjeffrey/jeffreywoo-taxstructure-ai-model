@@ -132,6 +132,8 @@ flowchart TD
     A5 --> O1
 ```
 
+> **How to read this diagram:** The flowchart shows three phases: Phase 1 (Visual Design) captures user input. Phase 2 (AI Analysis) processes it through Gemini API. Phase 3 (Output & Storage) delivers results. Arrows show the forward progression; there is no loop back to Phase 1 in this simplified view.
+
 ## ⚖️ Disclaimer
 **JeffreyWooTaxStructure** provides AI-driven insights for **informational, educational and demonstration purposes** only. It does not replace professional tax, legal, or financial advice. 
 
