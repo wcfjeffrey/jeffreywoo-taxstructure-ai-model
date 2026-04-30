@@ -102,6 +102,8 @@ This app automates the visualization and analysis of complex cross-border tax st
 
 ## 📐Data Flow and Logic Sequence
 
+The following diagram illustrates how the system transforms a user's visual design into AI-powered tax analysis and exportable outputs — from canvas interactions to Gemini API analysis to saved structures.
+
 ```mermaid
 flowchart TD
     subgraph DESIGN["Phase 1: Visual Design"]
