@@ -60,6 +60,40 @@ This app automates the visualization and analysis of complex cross-border tax st
 
 <img src="assets/JeffreyWooTaxStructure5.png" alt="JeffreyWooTaxStructure5" width="1100" height="800" />
 
+## 📐Data Flow and Logic Sequence
+
+The following diagram illustrates how the system transforms a user's visual design into AI-powered tax analysis and exportable outputs — from canvas interactions to Gemini API analysis to saved structures.
+
+> **How to read this diagram:** The flowchart shows three phases: Phase 1 (Visual Design) captures user input. Phase 2 (AI Analysis) processes it through Gemini API. Phase 3 (Output & Storage) delivers results. Arrows show the forward progression; there is no loop back to Phase 1 in this simplified view.
+
+```mermaid
+flowchart TD
+    subgraph DESIGN["Phase 1: Visual Design"]
+        direction TB
+        D1["Drag and Drop Entities"] --> D2["Connect Relationships"]
+        D2 --> D3["Capture Assumptions"]
+        D3 --> D4["Use Pre-built Templates"]
+    end
+
+    subgraph AI["Phase 2: AI Analysis"]
+        direction TB
+        A1["Send to Gemini API"] --> A2["Analyze Tax Structure"]
+        A2 --> A3["Highlight Investor Considerations"]
+        A3 --> A4["Identify Structure Considerations"]
+        A4 --> A5["Generate Draft Step Plans"]
+    end
+
+    subgraph OUTPUT["Phase 3: Output & Storage"]
+        direction TB
+        O1["Display Tax Overlay on Canvas"] --> O2["Export PNG or Share Link"]
+        O2 --> O3["Save to My Structures Library"]
+        O3 --> O4["Export TXT for Analysis Results"]
+    end
+
+    D4 --> A1
+    A5 --> O1
+```
+
 ## ⭐ Finance Skills Strengthened
 • Full‑stack architecture for interactive tax structuring applications.  
 • Secure handling of sensitive tax data, assumptions & environment variables.  
@@ -99,40 +133,6 @@ This app automates the visualization and analysis of complex cross-border tax st
 <img src="assets/JeffreyWooTaxStructure4.png" alt="JeffreyWooTaxStructure4" width="1200" height="900" />
 
 **Note:** Actively monitoring and systematically incorporating the evolving tax regulations, including BEPS 2.0 and other tax regulation updates from Hong Kong and other major jurisdictions, to ensure forward-thinking compliance and proactive risk management.
-
-## 📐Data Flow and Logic Sequence
-
-The following diagram illustrates how the system transforms a user's visual design into AI-powered tax analysis and exportable outputs — from canvas interactions to Gemini API analysis to saved structures.
-
-```mermaid
-flowchart TD
-    subgraph DESIGN["Phase 1: Visual Design"]
-        direction TB
-        D1["Drag and Drop Entities"] --> D2["Connect Relationships"]
-        D2 --> D3["Capture Assumptions"]
-        D3 --> D4["Use Pre-built Templates"]
-    end
-
-    subgraph AI["Phase 2: AI Analysis"]
-        direction TB
-        A1["Send to Gemini API"] --> A2["Analyze Tax Structure"]
-        A2 --> A3["Highlight Investor Considerations"]
-        A3 --> A4["Identify Structure Considerations"]
-        A4 --> A5["Generate Draft Step Plans"]
-    end
-
-    subgraph OUTPUT["Phase 3: Output & Storage"]
-        direction TB
-        O1["Display Tax Overlay on Canvas"] --> O2["Export PNG or Share Link"]
-        O2 --> O3["Save to My Structures Library"]
-        O3 --> O4["Export TXT for Analysis Results"]
-    end
-
-    D4 --> A1
-    A5 --> O1
-```
-
-> **How to read this diagram:** The flowchart shows three phases: Phase 1 (Visual Design) captures user input. Phase 2 (AI Analysis) processes it through Gemini API. Phase 3 (Output & Storage) delivers results. Arrows show the forward progression; there is no loop back to Phase 1 in this simplified view.
 
 ## ⚖️ Disclaimer
 **JeffreyWooTaxStructure** provides AI-driven insights for **informational, educational and demonstration purposes** only. It does not replace professional tax, legal, or financial advice. 
