@@ -102,7 +102,6 @@ This app automates the visualization and analysis of complex cross-border tax st
 
 ## 📐Data Flow and Logic Sequence
 
-## System Architecture & Data Flow
 ```mermaid
 flowchart TD
     subgraph DESIGN["Phase 1: Visual Design"]
