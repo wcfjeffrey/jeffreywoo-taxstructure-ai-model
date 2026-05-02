@@ -138,7 +138,52 @@ flowchart TD
 
 **Note:** Actively monitoring and systematically incorporating the evolving tax regulations, including BEPS 2.0 and other tax regulation updates from Hong Kong and other major jurisdictions, to ensure forward-thinking compliance and proactive risk management.
 
+## References
+
+**1. Hong Kong Tax Regulations & Concessions**
+
+**Corporate Treasury Centre (CTC) profits tax concession**
+
+- [Hong Kong Special Administrative Region. (2016). Inland Revenue (Amendment) (No. 2) Ordinance 2016 (Ordinance No. 11 of 2016). Government of the Hong Kong SAR.](https://www.elegislation.gov.hk/hk/2016/11)
+
+**Family-owned Investment Holding Vehicles (FIHV) / Family-owned Special Purpose Entities (FSPE) profits tax regime**
+
+- [Hong Kong Special Administrative Region. (2023). Inland Revenue (Amendment) Ordinance 2023 (Ordinance No. 14 of 2023). Government of the Hong Kong SAR.](https://www.elegislation.gov.hk/hk/2023/14)
+
+**Designated Local Research Institution (DLRI) enhanced tax deduction for R&D activities**
+
+- [Hong Kong Special Administrative Region. (2018). Inland Revenue Ordinance (Cap. 112). Sections 16B and 16C (Research and Development Expenditure). Government of the Hong Kong SAR.](https://www.elegislation.gov.hk/hk/cap112?xpid=ID_1438402580439_001)
+
+**Charitable Organization tax exemptions under Section 88 of the IRO**
+
+- [Hong Kong Special Administrative Region. (2008). Inland Revenue Ordinance (Cap. 112). Section 88 (Charitable Exemptions). Government of the Hong Kong SAR.](https://www.elegislation.gov.hk/hk/cap112?xpid=ID_1438402585244_004)
+
+**2. PRC Tax & Legal Frameworks**
+
+**Wholly Foreign-Owned Enterprise (WFOE) market entry vehicle**
+
+- [National People's Congress. (2019). Foreign Investment Law of the People's Republic of China (Effective January 1, 2020). Government of the PRC.](https://en.ndrc.gov.cn/policies/202105/t20210527_1281403.html)
+- [National People's Congress. (2023). Company Law of the People's Republic of China (2023 Revision). Government of the PRC.](https://www.registrationchina.com/articles/law/company-law-of-the-peoples-republic-of-china-2023-revision/)
+- [National People's Congress. (2000). Wholly Foreign-Owned Enterprises Law of the People's Republic of China (Revised 2000). Government of the PRC.](http://en.moj.gov.cn/2021-06/22/c_634956.htm)
+
+**Controlled Foreign Corporations (CFC) Regime anti-deferral rules**
+
+- [National People's Congress. (2007). Enterprise Income Tax Law of the People's Republic of China (EIT Law). Article 45 (Controlled Foreign Corporations). Government of the PRC.](https://www.china-tax.net/static/upload/files/Corporation%20income%20tax%20(China)/PRC_CIT%20Law%202008.pdf)
+- [State Administration of Taxation (SAT). (2009). Circular on Strengthening the Administration of Controlled Foreign Corporations. SAT Circular 82/2009.](http://en.sx.gov.cn/art/2010/3/30/art_1501440_18650602.html)
+- [State Administration of Taxation (SAT). (2023). Circular on Optimizing Taxpayer Services and Streamlining the Reporting Forms for Resident Enterprises’ Overseas Investments and Income Information. SAT Circular 17/2023 (Controlled Foreign Corporations).](http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202309/ce0c81a1859b4cd6a418fba66e2f7369.shtml)
+
+**3. International Tax Frameworks & AI Model**
+
+**International tax planning frameworks (referenced in transformation impact)**
+
+- [OECD/G20 Base Erosion and Profit Shifting (BEPS) Project. (2015). Base Erosion and Profit Shifting (BEPS) Action Plan. Organisation for Economic Co-operation and Development (OECD) Publishing.](https://www.oecd.org/tax/beps/)
+
+**AI-powered tax analysis (the app sends tax structure data to Gemini API for analysis)**
+
+- [Gemini Team, Google. (2025). Gemini API. (Large language model API).](https://ai.google.dev/gemini-api/docs)
+
 ## ⚖️ Disclaimer
+
 **JeffreyWooTaxStructure** provides AI-driven insights for **informational, educational and demonstration purposes** only. It does not replace professional tax, legal, or financial advice. 
 
 Tax laws and regulations vary by jurisdiction and change frequently. The AI‑generated recommendations and analyses may not be accurate, complete, or applicable to your specific situation.
